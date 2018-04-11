@@ -12,7 +12,7 @@ First of all, you need to know a few some of this rules. Below you can see two l
 
 
 
-## Clean Code
+## 2. Clean Code
 
 If you want to become a good programmer, you have to know that 80% of the time a programmer read someone else's code and last 20% of the time he write his own code. 
 
