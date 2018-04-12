@@ -35,3 +35,25 @@ Nowadays are so many HTML5 & CSS3 templates, some of this are the same as others
 
 If you want to see more web templates, you can follow this [link](https://templated.co/). There are a lot of examples about how a site should look.
 
+
+## 4. Setup environement
+
+For this eight courses you'll use github for solve test and post your projects. It's easy for me to revise your solutions and you must familiarize yourself with this environement.
+
+1. If you don't have an account on github, you must have to create one [**this**](https://github.com/)
+
+2. You'll use command line for post your solutions and for that you require [**git**](https://git-scm.com/).
+It's important to note that the git and github aren't the same. **Gitbuh** is an application for storing data like a hard disk or database and **git** is the tool to control data or send your code on github. 
+
+3. Once you downloaded git, open the console in your folder dedicate only for one project. For example, this is my folder for work:  ``D:/Work/FrontEnd/WebProject``  
+
+4. For next, you must tell git who you are: 
+```javascript 
+    git config --global user.name "Your name"
+    git config --global user.email "yourEmail@email.com"
+ ```
+  Remember that this commands are used for configuration git. If you typed they already, you don't have to write again.
+   
+
+
+
