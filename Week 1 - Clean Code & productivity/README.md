@@ -24,3 +24,14 @@ There are some articles which explain why a clean code is important, how to keep
 * [Importance of Writing Clean Code](https://dev.to/mohitrajput987/importance-of-writing-clean-code)
 * [10 Ways to Write Cleaner Code](https://www.codeschool.com/blog/2015/09/29/10-ways-to-write-cleaner-code/)
 * [10 Principles for Keeping Your Programming Code Clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
+
+## 3. Modern web templates
+
+Nowadays are so many HTML5 & CSS3 templates, some of this are the same as others due to Wordpress. But this technology evolved much in last twenty years and Web Design changed greatly. In the following, you'll see the diferences between an old web templates and a modern web templates.
+
+**Old sites:** [www.info.uaic.ro](https://www.info.uaic.ro/bin/Main/) or [www.bcu-iasi.ro](http://www.bcu-iasi.ro/) 
+
+**Modern sites:**  [obizzi.com](http://obizzi.com/) or [handelarchitects.com](https://handelarchitects.com/) 
+
+If you want to see more web templates, you can follow this [link](https://templated.co/). There are a lot of examples about how a site should look.
+
