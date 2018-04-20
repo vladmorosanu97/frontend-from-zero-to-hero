@@ -57,7 +57,7 @@
     
     //calculate salary for each employee
     firstEmployee = (salary + 100)/hoursOfWork;
-    secondEmployee = (salary + 100)/houseOfWork;
+    secondEmployee = (salary + 100)/hoursOfWork;
 }
 ```
 5. Naming conventions is very important for writing a clean code because the other programmers will not spend too much time trying to understand what were you thinking. In this exercise, you need to improve the code in such a way that other people can read it more easily. Hint: try understanding first what does this code do. 
