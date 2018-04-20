@@ -40,7 +40,7 @@
 3. Naming convension is very important for a clean code because the other programmers will not spent much time trying to understand what were you thinking. You need to imporve this code is such way to be more readable by other people. Hint: Try to know that this code are doing.
 
 ```javascript
-    for(i=0;i<10;i++) {
-        d = d +i;
-    }
+        for(i=0;i<10;i++) {
+    d = d +i;
+  }
 ```    
