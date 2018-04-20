@@ -18,8 +18,8 @@ If you want to become a good programmer, you have to know that 80% of the time a
 
 *Programming is an art of telling another human what one wants the computer to do.* -Donald Knuth
 
-Whether you write a code for yourself or for other people, it is your responsability to maintain your project clean and organized.
-There are some articles which explain why a clean code is important, how to keep your code organised. There are also rules and tips on how to improve your writing. 
+Whether you're writing a code for yourself or for other people, it is your responsability to maintain your project clean and organized.
+There are some articles which explain why a clean code is important and show you how to keep your code organised. There are also rules and tips on how to improve your writing. 
 
 * [Importance of Writing Clean Code](https://dev.to/mohitrajput987/importance-of-writing-clean-code)
 * [10 Ways to Write Cleaner Code](https://www.codeschool.com/blog/2015/09/29/10-ways-to-write-cleaner-code/)
