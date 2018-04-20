@@ -1,4 +1,4 @@
-# FrontendFromZeroToHero
+# FrontendFromZeroToHero - Week 1
 
 ## 1. Productivity
 
