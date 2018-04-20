@@ -27,27 +27,27 @@ There are some articles which explain why a clean code is important and show you
 
 ## 3. Modern web templates
 
-Nowadays are so many HTML5 & CSS3 templates, some of this are the same as others due to Wordpress. But this technology evolved much in last twenty years and Web Design changed greatly. In the following, you'll see the diferences between an old web templates and a modern web templates.
+Nowadays there are so many HTML5 & CSS3 templates that they're starting to look alike because/with the help of Wordpress. But web development evolved so much in the last twenty years, and so did the web design. Further, you'll see the differences between old web templates and modern web templates.
 
 **Old sites:** [www.info.uaic.ro](https://www.info.uaic.ro/bin/Main/) or [www.bcu-iasi.ro](http://www.bcu-iasi.ro/) 
 
 **Modern sites:**  [obizzi.com](http://obizzi.com/) or [handelarchitects.com](https://handelarchitects.com/) 
 
-If you want to see more web templates, you can follow this [link](https://templated.co/). There are a lot of examples about how a site should look.
+If you want to see more web templates, you can follow this link: [templated.com](https://templated.co/). There are a lot of examples about how a website should look like.
 
 
 ## 4. Setup environement
 
-For this eight courses you'll use github for solve test and post your projects. It's easy for me to revise your solutions and you must familiarize yourself with this environement.
+For these courses you'll be needing github to take the tests and post your projects. It will be much easier for me to revise your solutions and for you to familiarize yourself with this environement.
 
-1. If you don't have an account on github, you must have to create one [**this**](https://github.com/)
+1. If you don't have an account on github, you need to create one [**github.com**](https://github.com/)
 
-2. You'll use command line for post your solutions and for that you require [**git**](https://git-scm.com/).
-It's important to note that the git and github aren't the same. **Github** is an application for storing data like a hard disk or database and **git** is the tool to control data or send your code on github. 
+2. You'll use command line to post your solutions and you'll need this: [**git**](https://git-scm.com/).
+It's important to bare in mind that git and github aren't the same. **Github** is an application for storing data like a hard disk or database and **git** is the tool to control data or send your code on github. 
 
-3. Once you downloaded git, open the console in your folder dedicate only for one project. For example, this is my folder for work:  ``D:/Work/FrontEnd/WebProject``  
+3. Once you downloaded git, open the console in your folder dedicated only for one single project. For example, this is my folder for work:  ``D:/Work/FrontEnd/WebProject``  
 
-4. For next, you must tell git who you are. Remember that this commands are used for configuration git. If you typed they already, you don't have to write again.
+4. Next, you must tell git who you are. Remember that these commands are used for configuration git. If you typed them already, you don't have to write again.
 
 ```javascript 
     git config --global user.name "Your name"
@@ -55,7 +55,7 @@ It's important to note that the git and github aren't the same. **Github** is an
  ```
     
    
- That's great. You finished first course and I'm proud of you. In the following, you have to solve a little test and after you will learn other amazing informations. Have a nice day! 
+ That's great! You finished your first course and I'm proud of you! Now, all you need to do is to solve a quick test and after that you will learn even more amazing information. Have a nice day! 
 
 
 
