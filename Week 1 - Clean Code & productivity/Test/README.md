@@ -17,4 +17,11 @@
         * 10:00 AM:  To clean the desk and make my bed.
         * 3:40 PM:   To walk the dog and go to the market.
         * 11:30 PM:  Make to-do list for next day and go to bed early.
-        
+   
+2. After some hours of learning is recomanded to take a brake for 10 - 20 minutes. What you think could be this value?
+    * a) after every 30 minutes of learning.
+    * b) after every 2 hours of learning.
+    * c) after 6 hours of learning.
+    
+ 
+ 
