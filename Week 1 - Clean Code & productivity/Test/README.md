@@ -1,4 +1,4 @@
-# FrontEndFromZeroToHero
+# FrontEndFromZeroToHero - Week 1
 
 ## The first test
 
