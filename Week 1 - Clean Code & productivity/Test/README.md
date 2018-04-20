@@ -23,5 +23,17 @@
     * b) after every 2 hours of learning.
     * c) after 6 hours of learning.
     
+ 3. What is wrong with this code? Could you improve it?
  
+ ```javascript
+ function myCompany() {
+    let hoursOfWork = 30;
+    let salary = 2000;
+    let firstEmplyer;
+    let secondEmployer;
+    
+    //calculate salary for each employer
+    firstEmployer = (salary + 100)/hoursOfWork;
+    secondEmployer = (salary + 100)/houseOfWork;
+}
  
