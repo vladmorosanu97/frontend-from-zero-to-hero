@@ -10,19 +10,13 @@
     
     * Now, right click, open git bash and type `` git init `` . This comand means that you will create a local workspace in your computer. 
     
-    * You need to create a connection between your local workspace and github. Type `` git remote add origin https://github.com/yourAccount/yourRepositoryName.git ``.
+    * You need to create a connection between your local workspace and github.
+    
+    Type `` git remote add origin https://github.com/yourAccount/yourRepositoryName.git ``.
     
     * To have things organised, it's necessary to create a new folder for every course. Type ``mkdir yourFolderName`` and ``cd yourFolderName``.
     
     * Below, you can create a new file text or any other type of file and in order write your answers. 
-    
-    * There is only one more step. To synchronise your local data in your online repository you need to do the following: 
-        * ``git add *`` to add files in new commit
-        * ``git commit -m "Your optional comment about this commit"`` . This command will create a new local commit with your files.
-        * ``git push origin master`` for upload you local commit on github.
-       
-    If you want to learn more about github and git, there is a useful article about this powerful technology: 
-    * [Learn the workings of Git, not just the commands](https://www.ibm.com/developerworks/library/d-learn-workings-git)
 
 2. The best way to be productive and accomplish everything you set out to do is to create your own **To-Do Lists**. What kind of spin do you think is the most correct?  
     
@@ -66,3 +60,13 @@
     d = d +i;
   }
 ```    
+
+6. There is only one more step. To synchronise your local data in your online repository you need to do the following: 
+
+    * ``cd ..`` to be in the main folder where you created the local repository
+    * ``git add *`` to add files in new commit
+    * ``git commit -m "Your optional comment about this commit"`` . This command will create a new local commit with your files.
+    * ``git push origin master`` for upload you local commit on github.
+       
+    If you want to learn more about github and git, there is a useful article about this powerful technology: 
+    * [Learn the workings of Git, not just the commands](https://www.ibm.com/developerworks/library/d-learn-workings-git)
