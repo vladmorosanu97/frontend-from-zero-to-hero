@@ -2,9 +2,9 @@
 
 ## 1. Productivity
 
-If you want to achieve good results and to be productive it is required to know some rules and the best practice for learning. 
+If you want to be productive and achieve good results, you need to know some rules first and the best practice for learning. 
 
-First of all, you need to know a few of these rules. You can see two links below: 
+Here are two links which might come in handy if you want to learn more about productivity and how to stop procrastinating. 
 
 * [4 Ways to Be Productive](https://www.wikihow.com/Be-Productive)
 
