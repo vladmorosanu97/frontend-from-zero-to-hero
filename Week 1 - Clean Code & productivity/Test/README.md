@@ -23,7 +23,7 @@
     * b) after every 2 hours of learning.
     * c) after 6 hours of learning.
     
- 3. What is wrong with this code? Could you improve it?
+ 3. What is wrong with this code? Could you improve it? If you don't have any knowledge about basic JavaScript, don't worry. You will learn this language soon. This exercise is optional. 
  
  ```javascript
  function myCompany() {
@@ -36,4 +36,16 @@
     firstEmployer = (salary + 100)/hoursOfWork;
     secondEmployer = (salary + 100)/houseOfWork;
 }
- 
+```
+3. Naming convension is very important for a clean code because the other programmers will not spent much time trying to understand your code. You need to imporve this code is such way to be more readable by other people. Hint: Try to know that this code are doing.
+
+```javascript
+    let a = 1;
+    let b = 2;
+    let c = 3;
+    let d;
+    
+    for(i=0;i<2;i++) {
+        d = d +i;
+    }
+```    
