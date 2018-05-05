@@ -86,7 +86,8 @@ CSS describes how elements should be rendered on screen, on paper, in speech, or
         * [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
         
         
-## That is for this week. Now, you have to resolve a little test abut HTML and CSS. See you next week! :D
+        
+That is for this week. Now, you have to resolve a little test abut HTML and CSS. See you next week! :D
         
    
         
