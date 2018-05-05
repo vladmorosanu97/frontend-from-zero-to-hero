@@ -1,4 +1,4 @@
-# FrontEndFromZeroToHero
+# FrontEndFromZeroToHero - Week 2
 
 ## Introduction in HTML
 
