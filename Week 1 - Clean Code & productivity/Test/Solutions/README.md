@@ -31,6 +31,6 @@ Below, you can see an improvement for myCompany();
 ```javascript
   let sum = 0; // 
   for(index = 0; index < 10; index++) {
-    sum += index; // this variable calculates the sum of first ten numbers and it is good to rename into **sum** 
+    sum += index; // this variable calculates the sum of the first ten numbers and it’s a good idea to rename it “sum” 
   }
 ``` 
