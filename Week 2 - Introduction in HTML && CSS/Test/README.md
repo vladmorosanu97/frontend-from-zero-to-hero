@@ -48,5 +48,8 @@
 14. How to insert a copyright symbol on a browser page?
 
 15. Does a hyperlink only apply to text?
+    
+    * a) Yes.
+    * b) No.
 
 16. What are empty elements?
