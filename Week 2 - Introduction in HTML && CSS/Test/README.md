@@ -17,11 +17,11 @@ Good luck! :D
 
 4. What is the difference between HTML elements and tags?
 
-1. What is Semantic HTML? What are all the new semantic elements you have used and what is their use?
+5. What is Semantic HTML?
 
-2. What is SVG?
+6. What is SVG?
 
-3. What is ``<!DOCTYPE>``? Is it mandatory?
+7. What is ``<!DOCTYPE>``? Is it mandatory?
 
 4. How can we link an Email address in a web page?
 
@@ -31,9 +31,7 @@ Good luck! :D
  
 7. What is the ``data-`` attribute good for?
 
-8. What is the difference between ``<section>`` and ``<article>``?
-
-9. What is the difference between ``<section>`` and ``<div>``?
+8. What is the difference between ``<section>``, ``<div>`` and ``<article>``?
 
 9. What is the use of span tag? Give one example.
 
