@@ -53,8 +53,27 @@
 
 9. How can we link an Email address in a web page?
 
-     * We can use **mailto:** in the href for email, like ``<a href="mailto:mail@email.com">Email me"</a>``.
+    * We can use **mailto:** in the href for email, like ``<a href="mailto:mail@email.com">Email me"</a>``.
      
-10. 
+10. What is Application cache?
+
+    * It is used to provide offline browsing of our app to the user.
+     
+11. What is the difference between ``<div>`` and ``<frame>``?
+
+   
+    * A ``<div>`` is a generic container element for grouping and styling, whereas a ``<frame>`` creates divisions within a web 
+    page and should be used within the ``<frameset>``.
     
+12. What is the use of span tag? Give one example.
+
+    * The span tag is used for adding color on text, adding background on text or highlight any color text etc.
     
+    * Example:
+    ``` 
+       <p>  
+         <span style="color:#ffffff;"> In this page we use span. </span>  
+       </p>
+    ```
+    
+13. 
