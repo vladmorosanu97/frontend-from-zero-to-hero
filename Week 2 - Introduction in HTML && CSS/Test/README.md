@@ -23,21 +23,17 @@ Good luck! :D
 
 7. What is ``<!DOCTYPE>``? Is it mandatory?
 
-4. How can we link an Email address in a web page?
-
-5. What is Application cache?
-
-6. What is the difference between ``<div>`` and ``<frame>``?
- 
-7. What is the ``data-`` attribute good for?
-
 8. What is the difference between ``<section>``, ``<div>`` and ``<article>``?
 
-9. What is the use of span tag? Give one example.
+9. How can we link an Email address in a web page?
 
-10. What is the difference between ``<div>``  and ``<span>``?
+10. What is Application cache?
 
-11. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
+11. What is the difference between ``<div>`` and ``<frame>``?
+
+12. What is the use of span tag? Give one example.
+
+13. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
 
 12. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
 
