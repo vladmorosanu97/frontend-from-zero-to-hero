@@ -51,6 +51,10 @@
     * The ``<article>`` represents a complete, or self-contained, composition in a document, page or site and that is, in principle, 
     independently distributable or reusable. This could be a forum post, a magazine or newspaper article, a comment or any other independent item of content
 
-9.     
+9. How can we link an Email address in a web page?
+
+     * We can use **mailto:** in the href for email, like ``<a href="mailto:mail@email.com">Email me"</a>``.
+     
+10. 
     
     
