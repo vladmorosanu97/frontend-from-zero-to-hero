@@ -2,6 +2,10 @@
 
 ## Test 2 - HTML && CSS
 
+Hello, I'm proud of you. You just did to read what's harder. From now on, things should go much faster. Below, you have a quick test to remind what you learned. If you don't know the answer for a question, you will find it in the Solutions folder.
+
+Good luck! :D
+
 ### 1. HTML Questions
 
 
