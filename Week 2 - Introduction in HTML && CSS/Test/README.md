@@ -5,6 +5,14 @@
 ### 1. HTML Questions
 
 
+1. What is HTML?
+
+2. What are Tags?
+
+3. Do all HTML tags have end tag?
+
+4. What is the difference between HTML elements and tags?
+
 1. What is Semantic HTML? What are all the new semantic elements you have used and what is their use?
 
 2. What is SVG?
@@ -15,5 +23,30 @@
 
 5. What is Application cache?
 
-6. 
+6. What is the difference between ``<div>`` and ``<frame>``?
  
+7. What is the ``data-`` attribute good for?
+
+8. What is the difference between ``<section>`` and ``<article>``?
+
+9. What is the difference between ``<section>`` and ``<div>``?
+
+9. What is the use of span tag? Give one example.
+
+10. What is the difference between ``<div>``  and ``<span>``?
+
+11. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
+
+12. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
+
+13. Are HTML tags case sensitive? 
+ 
+    * a) Yes.
+    * b) No.
+    * c) Some of them.
+   
+14. How to insert a copyright symbol on a browser page?
+
+15. Does a hyperlink only apply to text?
+
+16. What are empty elements?
