@@ -76,4 +76,67 @@
        </p>
     ```
     
-13. 
+13. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
+
+    * The HTML Inline Element ``<iframe>`` represents a nested browsing context, effectively embedding anther HTML page in the current       page.
+    
+    * The HTML ``<embed>`` element represents an integration point for an expternal application or interactive context (in other words,     a plug-in).
+    
+    * The HTML ``<object>`` element represents an externall resource, which can be treated as an image or nested browsing context.
+    
+14. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
+
+    * The required **alt** attribute specifies an alternate text for an image, if the image cannot be displayed.
+    * The **title** attribute specifies extra information about an element. The information is the most often show as a tooltip text when the mouse moves over the element. 
+    
+15. Are HTML tags case sensitive? 
+
+   * No. :D
+   
+   This code ...
+   ```
+     <!DOCTYPE html>
+     <html>
+       <head>
+         <meta charset="utf-8" />
+         <title>Page Title</title>
+         <meta name="viewport" content="width=device-width, initial-scale=1">
+         <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+         <script src="main.js"></script>
+       </head>
+       <body>
+         <h1>Title page</h1>
+       </body>
+     </html>
+  ```
+  or 
+  ```
+     <!DOCTYPE html>
+     <HTML>
+       <HEAD>
+         <META charset="utf-8" />
+         <TITLEe>Page Title</TITLE>
+         <META name="viewport" content="width=device-width, initial-scale=1">
+         <LINK rel="stylesheet" type="text/css" media="screen" href="main.css" />
+         <SCRIPT src="main.js"></SCRIPT>
+       </HEAD>
+       <BODY>
+         <H1>Title page</H1>
+       </BODY>
+     </HTML>
+  ```
+  will works perfectly in the both cases.
+  
+16. How to insert a copyright symbol on a browser page? 
+
+   * You can insert a copyright symbol by using &copy; or &#169; in an HTML file.
+   
+17. Does a hyperlink only apply to text?
+    
+    * No. You can use hyperlinks on text and images both.
+    
+18. What are empty elements?
+
+    * HTML elements with no content are called empty elements. For example: <br>, <hr> etc.
+    
+19. 
