@@ -137,6 +137,6 @@
     
 18. What are empty elements?
 
-    * HTML elements with no content are called empty elements. For example: <br>, <hr> etc.
+    * HTML elements with no content are called empty elements. For example: ``<br>``, ``<hr>`` etc.
     
 19. 
