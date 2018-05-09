@@ -35,19 +35,37 @@ Good luck! :D
 
 13. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
 
-12. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
+14. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
 
-13. Are HTML tags case sensitive? 
+15. Are HTML tags case sensitive? 
  
     * a) Yes.
     * b) No.
     * c) Some of them.
    
-14. How to insert a copyright symbol on a browser page?
+16. How to insert a copyright symbol on a browser page?
 
-15. Does a hyperlink only apply to text?
+17. Does a hyperlink only apply to text?
     
     * a) Yes.
     * b) No.
 
-16. What are empty elements?
+18. What are empty elements?
+
+19. Which of the following HTML elements are non-semantic?
+
+    * a) ``<nav>``
+    * b) ``<div>``
+    * c) ``<code>``
+    * d) ``<article>``
+    * e) ``<p>``
+    * f) ``<span>``
+    
+20. Chose block elements: 
+
+    * a) ``<a>``
+    * b) ``<div>``
+    * c) ``<h3>``
+    * d) ``<p>``
+    * e) ``<table>``
+    * d) ``<span>``
