@@ -139,4 +139,12 @@
 
     * HTML elements with no content are called empty elements. For example: ``<br>``, ``<hr>`` etc.
     
-19. 
+19. Which of the following HTML elements are non-semantic?
+
+    * Sematic refers to the meaning of a piece of code. For example, the ``<h1>`` element is semantic because the text wrapped aroung its tags indicates > a top-level heading of the page. 
+    * Elements ``<div>`` and ``<span>`` don't have any semantic meaning.
+    
+20. Chose block elements: 
+
+    * A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+    * The block elements from that list are: ``<div>``,  ``<h3>``, ``<p>`` and ``<table>``. 
