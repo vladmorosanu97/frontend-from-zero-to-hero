@@ -2,7 +2,7 @@
 
 ## Test 2 - HTML && CSS
 
-Hello, I'm proud of you. You just did to read what's harder. From now on, things should go much faster. Below, you have a quick test to remind what you learned. If you don't know the answer for a question, you will find it in the Solutions folder.
+Hello! I'm glad to see you managed to get this point and read all of the links I've shared for HTML and CSS. From now on, things should go much faster. Below, you have a quick test to freshen up your knowledge. If you don't know the answer to a question, you can look it up into the Solutions folder.
 
 Good luck! :D
 
@@ -11,9 +11,9 @@ Good luck! :D
 
 1. What is HTML?
 
-2. What are Tags?
+2. What are tags?
 
-3. Do all HTML tags have end tag?
+3. Do all HTML tags have a closing tag?
 
 4. What is the difference between HTML elements and tags?
 
@@ -25,9 +25,9 @@ Good luck! :D
 
 8. What is the difference between ``<section>``, ``<div>`` and ``<article>``?
 
-9. How can we link an Email address in a web page?
+9. How can we link an email address in a web page?
 
-10. What is Application cache?
+10. What is application cache?
 
 11. What is the difference between ``<div>`` and ``<frame>``?
 
@@ -61,7 +61,7 @@ Good luck! :D
     * e) ``<p>``
     * f) ``<span>``
     
-20. Chose block elements: 
+20. Choose block elements: 
 
     * a) ``<a>``
     * b) ``<div>``
