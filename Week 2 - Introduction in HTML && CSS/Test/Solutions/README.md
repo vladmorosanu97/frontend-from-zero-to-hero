@@ -11,7 +11,8 @@
     
 2. What are Tags?
 
-    * HTML tags are composed of three things: **opening tag**, **content** and **ending tag**. Some tags are unclosed tags. 
+    * Tags are a set of characters that provide the directions or recipes for the visual content that one sees on the Web.
+    * HTML tags are composed of two things: **opening tag** and **ending tag**. Some tags are unclosed tags. 
     Examples: ``<p></p>``, ``<div></div>``, ``<h1></h1>``, ``<span>``.
     
 3. Do all HTML tags have end tag?
