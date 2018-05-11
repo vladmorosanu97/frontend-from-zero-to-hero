@@ -77,14 +77,6 @@
        </p>
     ```
     
-13. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
-
-    * The HTML Inline Element ``<iframe>`` represents a nested browsing context, effectively embedding anther HTML page in the current       page.
-    
-    * The HTML ``<embed>`` element represents an integration point for an expternal application or interactive context (in other words,     a plug-in).
-    
-    * The HTML ``<object>`` element represents an externall resource, which can be treated as an image or nested browsing context.
-    
 14. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
 
     * The required **alt** attribute specifies an alternate text for an image, if the image cannot be displayed.
