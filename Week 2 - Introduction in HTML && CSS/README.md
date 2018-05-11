@@ -1,6 +1,6 @@
 # FrontEndFromZeroToHero - Week 2
 
-## Introduction in HTML
+## Introduction in HTML5 && CSS3
 
 Hello, it's good to see you here again! :D 
 
