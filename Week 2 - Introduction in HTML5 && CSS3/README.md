@@ -37,7 +37,7 @@ If you have questions or concerns, don't be shy and ask me in a comment! Well, e
       * [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
       * [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
       * [SVG Format](https://css-tricks.com/using-svg/)
-      
+      * [HTML ``<frame>`` Tag](https://www.w3schools.com/tags/tag_frame.asp)
   3. HTML Tables
   
       * [HTML table basics](https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
