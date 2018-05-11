@@ -27,19 +27,17 @@
 
 12. What is the use of span tag? Give one example.
 
-13. What is the difference between ``<iframe>``, ``<embed>`` and ``<object>``?
+13. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
 
-14. What is the difference between ``alt=" "`` text and ``title=" "`` text in HTML image element?
-
-15. Are HTML tags case sensitive? 
+14. Are HTML tags case sensitive? 
  
     * a) Yes.
     * b) No.
     * c) Some of them.
    
-16. How to insert a copyright symbol on a browser page?
+15. How to insert a copyright symbol on a browser page?
 
-17. Does a hyperlink only apply to text?
+16. Does a hyperlink only apply to text?
     
     * a) Yes.
     * b) No.
