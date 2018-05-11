@@ -29,7 +29,7 @@ If you have questions or concerns, don't be shy and ask me in a comment! Well, e
       * [HTML text fundamentals](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals)
       * [Creating hyperlinks](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks)
       * [Document and website structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
-      * [Aplication cache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache)
+      * [Using the application cache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache)
       * [Debugging HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML)
       
   2. Multimedia and embedding
