@@ -1,19 +1,19 @@
 # FrontEndFromZeroToHero - Week 2
 
-## Learn the workings of Git
+## 1. Learn the workings of Git
 
 First of all, you need to know what are the Git principles and why is the best platform which you can sync your projects. 
 In first course, I teach you some commands for Git and to create a repository (a workspace online) but now, you have to read how git works and what you can do with it. Below, you have a link to a great article about the workings of Git.
 
 [Learn the workings of Git, not just the commands](https://www.ibm.com/developerworks/library/d-learn-workings-git/)
 
-## Introduction in HTML5 && CSS3
+## 2. Introduction in HTML5 && CSS3
 
 Hello, it's good to see you here again! :D 
 
 For this week, you will learn some things about HTML and CSS and why Flexbox is the best and most elegant method for layout.
 
-### 1. HyperText Markup Language
+### 2.1 HyperText Markup Language
 
 The guys at MDN ([Resources for developers, by developers.](https://developer.mozilla.org/en-US/)) made really useful tutorials for HTML & CSS and this link will provide you some information about this language. 
 
@@ -59,7 +59,7 @@ If you have questions or concerns, don't be shy and ask me in a comment! Well, e
       * [How to structure an HTML form](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/How_to_structure_an_HTML_form)
       
       
-### 2. Cascading Style Sheets
+### 2.2 Cascading Style Sheets
 
 Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML
 (there is a good tutorial about XML: [EXtensible Markup Language](https://www.xmlfiles.com/xml/xml-intro/)).
