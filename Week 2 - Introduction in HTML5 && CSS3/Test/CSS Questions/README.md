@@ -30,11 +30,11 @@
 
 4. How to select all paragraph elements with a lang attribute?
 
-5. What is ``float`` proprety in CSS?
+5. What is ``float`` property in CSS?
 
 6. What is CSS Box model and its used?  
 
-7. Is there a way to restore the default proprety value using CSS?
+7. Is there a way to restore the default property value using CSS?
 
 8. What is ``inline``, ``inline-block`` and ``block``? How they are different from each other?
 
@@ -42,9 +42,9 @@
 
 9. What is the purpose of vh and vw measurement unit?
 
-9. Which proprety is used to set the background color of an element?
+9. Which property is used to set the background color of an element?
 
-9. Which proprety is used to controll the scrolling of an image in the background?
+9. Which property is used to controll the scrolling of an image in the background?
 
 10. Explain de difference between ``visibility: hidden`` and ``display: none``?
 
