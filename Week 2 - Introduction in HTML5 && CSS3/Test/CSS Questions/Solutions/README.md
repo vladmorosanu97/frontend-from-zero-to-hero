@@ -110,13 +110,28 @@
     * The ``z-index`` default value is zero and can take on either a positive or negative number.
     * An element with a higher ``z-index`` is allways stacked above one with a lower index.
     
-17. What is the purpose of ``vh`` and ``vw``and ``vmin`` measurement unit?
+17. What is ``vh``, ``vw``and ``vmin`` measurement unit?
     
     * CSS3 has some new values for sizing things relative to the current viewport size: vw, vh, and vmin.
     * Any of the three values is 1% of the viewport axis. "Viewport" == browser window size == window object. If the viewport is 40cm   wide, 1vw == 0.4cm.
+    * 1vw = 1% of viewport width.
+    * 1vh = 1% of viewport height.
+    * 1vmin = 1vw or 1vh, whichever is smaller.
+    * 1vmax = 1vw or 1vh, whichever is larger.
 
-9. Which proprety is used to set the background color of an element?
+18. Which proprety is used to set the background color of an element?
 
+    * ``background-color`` set a specific backgroud color to an element. Like this: 
+    ```
+    body {
+        background-color: #000000;
+    }
+    ```
+
+19. Is there any possible to add multiple background images?
+
+    * 
+    
 9. Which proprety is used to controll the scrolling of an image in the background?
 
 10. Explain de difference between ``visibility: hidden`` and ``display: none``?
@@ -137,7 +152,6 @@
 
 18. What is ``@import`` rule in CSS3? Why is ``@import`` only at the top?
 
-19. Is there any possible to add multiple background images?
 
 20. What is difference between ``nth-of-type`` and ``nth-child``?
 
