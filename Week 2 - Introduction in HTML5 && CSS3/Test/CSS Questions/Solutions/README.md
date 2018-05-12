@@ -104,9 +104,16 @@
     * An **inline** element only takes up as much width as necessary, cannot accept width and height values and does not force line   breaks. ``<a>`` and ``<span>`` are examples of inline elements.
     * **Inline-block** is similar to inline, but it can take height, width or margin values.
 
-9. What is the purpose of the ``z-index`` and how is it used?
+16. What is the purpose of the ``z-index`` and how is it used?
 
-9. What is the purpose of vh and vw measurement unit?
+    * The ``z-index`` helps specify the stack order of positioned elements that may overlap one another.
+    * The ``z-index`` default value is zero and can take on either a positive or negative number.
+    * An element with a higher ``z-index`` is allways stacked above one with a lower index.
+    
+17. What is the purpose of ``vh`` and ``vw``and ``vmin`` measurement unit?
+    
+    * CSS3 has some new values for sizing things relative to the current viewport size: vw, vh, and vmin.
+    * Any of the three values is 1% of the viewport axis. "Viewport" == browser window size == window object. If the viewport is 40cm   wide, 1vw == 0.4cm.
 
 9. Which proprety is used to set the background color of an element?
 
