@@ -198,5 +198,5 @@ Resources:
 
 * UI Developer Interview Q&A mobile APP
 * Interview Question and Answers mobile APP
-* [w3schools](https://www.w3schools.com/css/default.asp)
+* [CSS Tutorial W3schools](https://www.w3schools.com/css/default.asp)
 
