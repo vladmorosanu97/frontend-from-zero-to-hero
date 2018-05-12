@@ -4,7 +4,7 @@
 
 1. What is CSS?
 
-   * Cascading Style Sheets, fondly referred to as CSS, is a simply design language intended to simplyfi the process of making web pages    presentable.
+   * Cascading Style Sheets, fondly referred to as CSS, is a simply **design language** intended to simplyfi the process of making web pages    presentable.
    
 2. What are all the ways to apply CSS rules to a web page?
 
@@ -14,7 +14,7 @@
 
 3. What are the components of a CSS Style for an element?
 
-   * A style rule is made of three parts: 
+   * A style rule is made of **three** parts: 
    
         * selector - A selector is an HTML tag at which a style will be applied
         * property - A proprety is a type of attribute of HTML tag.
@@ -67,33 +67,42 @@
     ```
 9. What is a Child selector?
 
-   * Child selectors are another way to group and style a set of elements that descend from a parent element
+   * Child selectors are another way to group and style a set of elements that **descend from a parent** element
    * Child selectors contains ``>`` between the parent and child.
 
 10. What is an attribute selector?
 
-   * You can also apply styles to HTML elements with particular attributes.
-   * The style rule below will match all the input elements having a type attribute with a value of text.
-   ```
-   input[type="text"] {
-        color: #000000;
-   }
-   ```
+    * You can also apply styles to HTML elements with particular attributes.
+    * The style rule below will match all the input elements having a type attribute with a value of text.
+     ```
+     input[type="text"] {
+          color: #000000;
+     }
+     ```
 
 11. How to select all paragraph elements with a lang attribute?
 
-   * The selector ``p[lang]`` selects all paragraph elements with a lang attribute
+    * The selector ``p[lang]`` selects all paragraph elements with a lang attribute
 
 12. What is ``float`` proprety in CSS?
 
-   * In float, CSS allow an element to be positioned horizondally, allowing elements below the floated element to flow around it
-   * Floats can only accept a ``left`` and ``right`` value.
+    * In float, CSS allow an element to be positioned horizondally, allowing elements below the floated element to flow around it
+    * Floats can only accept a ``left`` and ``right`` value.
 
-6. What is CSS Box model and its used?  
+13. What is CSS Box model and its used?  
 
-7. Is there a way to restore the default proprety value using CSS?
+    * CSS Box model is a made up of margins, borders, padding and content. Box model provides a **structured way** to space elements in     a relationship to each other.
 
-8. What is ``inline``, ``inline-block`` and ``block``? How they are different from each other?
+14. Is there a way to restore the default proprety value using CSS?
+
+    * This is not an easy way to restore the default property. But we can use ``inherit`` value, which will restore it to the default.
+
+15. What is ``inline``, ``inline-block`` and ``block``? How they are different from each other?
+
+    * A **block** element is an element that takes up the full width available and has a line break before and after it. 
+    ``<h1>``, ``<p>``, ``<li>`` are examples of block elements.
+    * An **inline** element only takes up as much width as necessary, cannot accept width and height values and does not force line   breaks. ``<a>`` and ``<span>`` are examples of inline elements.
+    * **Inline-block** is similar to inline, but it can take height, width or margin values.
 
 9. What is the purpose of the ``z-index`` and how is it used?
 
