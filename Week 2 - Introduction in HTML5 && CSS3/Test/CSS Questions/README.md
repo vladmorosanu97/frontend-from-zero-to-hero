@@ -1,6 +1,6 @@
 # FrontEndFromZeroToHero - Week 2
 
-### 1. CSS3 Questions
+## CSS3 Questions
 
 1. What is CSS?
 
