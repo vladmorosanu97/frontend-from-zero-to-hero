@@ -143,12 +143,24 @@
     * ``visibility: hidden`` simply hides the element, while it will still take up space and affect the layout of the document.
     * ``display: none`` also hides the element, but will not take up space and the page will appear as if the element is not present
     
-11. How can you apply a CSS rule to all elements?
+22. How can you apply a CSS rule to all elements?
 
-12. How can you center a ``div`` element in a page?
+    * We can use ``*`` selector to apply a rule globally for all elements. Though it is not a good idea, we can use it for resetting margin and padding.
 
-13. What are all the values of position attribute in CSS? What is the diffference between all the positions?
+23. How can you center a ``div`` element in a page?
 
+    * We can center an element by applying ``margin-left`` and ``margin-right`` to auto.
+
+24. What are all the values of position attribute in CSS? What is the diffference between all the positions?
+
+    * Possible position values are ``static``, ``relative``, ``absolute``, ``fixed``, ``inherit``, ``initial``.
+    * **Static possition**: The element is positioned according to the normal flow of the document. The top, right, bottom, left, and z-index properties have no effect. This is the default value.
+    * **Relative possition** is possitioning the element to the normal flow of the document, and then offset relative to itself based on the values of top, right, bottom, and left.
+    * **Absolute possition** remove the element from the document flow. That means they have no effect at all on their parent element. An absolutely positioned  element will therefore overlap other content unless you take action to prevent it.
+    * **Fixed possition**: The element is removed from the normal document flow, and no space is created for the element in the page layout. This value always creates a new stacking context. In printed documents, the element is placed in the same position on every page.
+    * **Inherit possition** inherits their possition property from its parent element.
+    * **Initial possition** sets this property to its default value.
+    
 14. What is Flexbox in CSS3? 
 
 15. What are all the units we can use in CSS3?
