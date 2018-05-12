@@ -94,6 +94,7 @@ CSS describes how elements should be rendered on screen, on paper, in speech, or
         * [Floats](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
         * [Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
         * [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+        * [More Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
         
         
         
