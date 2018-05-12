@@ -4,22 +4,50 @@
 
 1. What is CSS?
 
-   *
+   * Cascading Style Sheets, fondly referred to as CSS, is a simply design language intended to simplyfi the process of making web pages    presentable.
+   
+2. What are all the ways to apply CSS rules to a web page?
 
-2. Explain the CSS selectors.
+   * **Inline** - It is by adding style attribute in the HTML element and then adds the rules. Though it is easy, it is not a best practice.
+   * **Inline/Internal** - Adding the ``<style>`` element in the document, preferably in the head, and then place our rules.
+   * **External/Linked** - CSS rules are placed in .css file and then using ``<link>`` element link the CSS files in the document.
 
-   * There are classes, id, type-selectors, attributes, pseudo-classes and pseudo-elements in CSS. The most common is class and id selectors.
+3. What are the components of a CSS Style for an element?
 
-3. What is class selector?
+   * A style rule is made of three parts: 
+   
+        * selector - A selector is an HTML tag at which a style will be applied
+        * property - A proprety is a type of attribute of HTML tag.
+        * value - Values are assigned to properties
+   
+4. Explain the CSS selectors.
+
+   * There are classes, id, type-selectors, attributes, pseudo-classes and pseudo-elements in CSS. The most common is class and id        selectors.
+
+5. What is type selector?
+
+   * Type selector quite simply matches the name of an element type. For example, if you want to give a color to all level 1 headings      you need to type like this:
+   ```
+   h1 {
+      color: #36CFFF;
+   }
+   ```
+   
+6. What is class selector?
   
    * The ``.class`` selector selects elements with a specific class attribute. Class selectors are called by adding a ``.`` and 
   then insert a class name.
   
-4. What is id selector? 
+7. What is id selector? 
 
-   *
-
-5. What is pseudo-selectors? What are they used for?
+   * You can define style rules based on the id attribute of the elements. Example:
+   ```
+   #black {
+      color: #000000;
+   }
+   ```
+ 
+8. What is pseudo-selectors? What are they used for?
 
    * There is two type of pseudo-selectors: **pseudo-elements** and **pseudo-classes**.
    * A pseudo-element is a keyword added to a selector that lets you style **a specific part** of the selected element(s).
@@ -37,29 +65,29 @@
       color: #FF0000;
     }
     ```
-  
-6. What are all the ways to apply CSS rules to a web page?
+9. What is a Child selector?
 
-   * **Inline** - It is by adding style attribute in the HTML element and then adds the rules. Though it is easy, it is not a best practice.
-   * **Inline/Internal** - Adding the ``<style>`` element in the document, preferably in the head, and then place our rules.
-   * **External/Linked** - CSS rules are placed in .css file and then using ``<link>`` element link the CSS files in the document.
+   * Child selectors are another way to group and style a set of elements that descend from a parent element
+   * Child selectors contains ``>`` between the parent and child.
 
-3. What are the components of a CSS Style?
+10. What is an attribute selector?
 
-3. What is type selector?
+   * You can also apply styles to HTML elements with particular attributes.
+   * The style rule below will match all the input elements having a type attribute with a value of text.
+   ```
+   input[type="text"] {
+        color: #000000;
+   }
+   ```
 
-3. What is descendent selector? 
+11. How to select all paragraph elements with a lang attribute?
 
+   * The selector ``p[lang]`` selects all paragraph elements with a lang attribute
 
-3. What is class selector?
+12. What is ``float`` proprety in CSS?
 
-4. What is a Child selector?
-
-4. What is an attribute selector?
-
-4. How to select all paragraph elements with a lang attribute?
-
-5. What is ``float`` proprety in CSS?
+   * In float, CSS allow an element to be positioned horizondally, allowing elements below the floated element to flow around it
+   * Floats can only accept a ``left`` and ``right`` value.
 
 6. What is CSS Box model and its used?  
 
