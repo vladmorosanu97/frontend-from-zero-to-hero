@@ -130,12 +130,19 @@
 
 19. Is there any possible to add multiple background images?
 
-    * 
+    * Yes, it is possible in CSS3.
+    * These are layered atop one another with the first background you provide on top and the last background listed in the back.
+    * Only the last background can include a background color.
     
-9. Which proprety is used to controll the scrolling of an image in the background?
+20. Which proprety is used to controll the scrolling of an image in the background?
 
-10. Explain de difference between ``visibility: hidden`` and ``display: none``?
+    * The ``background-attachement`` property is used to control the scrolling of an image in the background.
 
+21. Explain de difference between ``visibility: hidden`` and ``display: none``?
+
+    * ``visibility: hidden`` simply hides the element, while it will still take up space and affect the layout of the document.
+    * ``display: none`` also hides the element, but will not take up space and the page will appear as if the element is not present
+    
 11. How can you apply a CSS rule to all elements?
 
 12. How can you center a ``div`` element in a page?
