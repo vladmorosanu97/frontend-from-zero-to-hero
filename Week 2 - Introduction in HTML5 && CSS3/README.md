@@ -77,6 +77,7 @@ CSS describes how elements should be rendered on screen, on paper, in speech, or
    2. Styling text
         
         * [Fundamental text and font styling](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
+        * [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
         * [Styling lists](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_lists)
         * [Styling links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
         * [Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts)
