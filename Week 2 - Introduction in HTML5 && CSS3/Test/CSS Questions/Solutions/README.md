@@ -1,6 +1,6 @@
-## Test 2 - HTML && CSS
+## Test 2 - HTML5 && CSS3
 
-### 1. CSS questions and answers
+### 1. CSS3 questions and answers
 
 1. What is CSS?
 
