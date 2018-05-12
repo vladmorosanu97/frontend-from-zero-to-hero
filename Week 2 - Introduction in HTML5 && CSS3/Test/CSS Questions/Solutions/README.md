@@ -161,17 +161,42 @@
     * **Inherit possition** inherits their possition property from its parent element.
     * **Initial possition** sets this property to its default value.
     
-14. What is Flexbox in CSS3? 
+25. What is Flexbox in CSS3? 
 
-15. What are all the units we can use in CSS3?
+    * Flex layout is superficially similar to block layout.
+    * It is simple and powerful tool for distributing space and aligning content in ways that web apps and complex web pages often need.
+    * With flex, we can easily arrange the elements in rows or columns.
 
-16. What is the difference between em and rem?
+26. What are all the units we can use in CSS3?
+  
+    * We can use ``px``, ``pt``, ``cm``, ``em``, ``rem``, ``in``, ``vim`` and ``vmax``.
 
-17.  What would be the difference between ``width: auto`` and ``width: 100%`` in  CSS?
+27. What is the difference between em and rem?
 
-18. What is ``@import`` rule in CSS3? Why is ``@import`` only at the top?
+    * ``em`` unit is relative to the font-size of its direct or nearest parent. What it means is: ``1em = 20px`` if a selector has a ``font-size of 20px``. 
+    * ``rem`` unit is only relative to the html (root) font-size.
 
+28. What would be the difference between ``width: auto`` and ``width: 100%`` in  CSS?
+    
+    * ``width: auto`` reaches to the full width and it will subtract borders, paddings and margins from available space. 
+    * ``width: 100%`` will force the element to be as wide as its parent element and will add additional spacing which can cause some       problems. 
 
-20. What is difference between ``nth-of-type`` and ``nth-child``?
+29. What is ``@import`` rule in CSS3?
 
+    * The ``@import`` CSS **at-rule** is used to import style rules from other style sheets. These rules must precede all other types of rule.
+
+30. What is difference between ``nth-of-type`` and ``nth-child``?
+
+    * ``:nth-child()`` and ``:nth-of-type()`` pseudo-classes allow you to select elements with a formula.
+    * The ``:nth-child(n)`` select _n_ th child of the parent.
+    * The ``:nth-of-type()`` considers element of the given type.
+    
+    
+------------------------------------------------------------------------------------------------------------------------------------
+
+Resources: 
+
+* UI Developer Interview Q&A mobile APP
+* Interview Question and Answers mobile APP
+* [w3schools](https://www.w3schools.com/css/default.asp)
 
