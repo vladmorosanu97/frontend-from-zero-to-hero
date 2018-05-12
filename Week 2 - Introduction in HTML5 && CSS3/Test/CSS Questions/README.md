@@ -4,11 +4,15 @@
 
 1. What is CSS?
 
-1. Explain the CSS selectors.
+2. Explain the CSS selectors.
 
-2. What is Pseudo selectors? What are they used for?
+3. What is class selector?
 
-3. What are all the ways to apply CSS rules to a web page?
+4. What is id selector?
+
+5. What is pseudo-selectors? What are they used for?
+
+6. What are all the ways to apply CSS rules to a web page?
 
 3. What are the components of a CSS Style?
 
