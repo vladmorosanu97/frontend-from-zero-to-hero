@@ -1,6 +1,6 @@
 # FrontEndFromZeroToHero - Week 2
 
-### 1. HTML Questions
+### 1. HTML5 Questions
 
 
 1. What is HTML?
