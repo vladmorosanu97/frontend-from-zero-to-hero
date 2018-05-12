@@ -49,10 +49,10 @@ It's important to bare in mind that git and github aren't the same. **Github** i
 
 4. Next, you must tell git who you are. Remember that these commands are used for configuration git. If you typed them already, you don't have to write again.
 
-```javascript 
-    git config --global user.name "Your name"
-    git config --global user.email "yourEmail@email.com"
- ```
+    ```javascript 
+        git config --global user.name "Your name"
+        git config --global user.email "yourEmail@email.com"
+     ```
     
    
  That's great! You finished your first course and I'm proud of you! Now, all you need to do is to solve a quick test and after that you will learn even more amazing information. Have a nice day! 
