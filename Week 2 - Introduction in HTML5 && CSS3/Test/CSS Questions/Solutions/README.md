@@ -4,39 +4,43 @@
 
 1. What is CSS?
 
-*
+   *
 
 2. Explain the CSS selectors.
 
-  * There are classes, id, type-selectors, attributes, pseudo-classes and pseudo-elements in CSS. The most common is class and id selectors.
+   * There are classes, id, type-selectors, attributes, pseudo-classes and pseudo-elements in CSS. The most common is class and id selectors.
 
 3. What is class selector?
   
-  * The ``.class`` selector selects elements with a specific class attribute. Class selectors are called by adding a ``.`` and 
+   * The ``.class`` selector selects elements with a specific class attribute. Class selectors are called by adding a ``.`` and 
   then insert a class name.
   
 4. What is id selector? 
 
-  *
+   *
 
 5. What is pseudo-selectors? What are they used for?
 
-  * There is two type of pseudo-selectors: pseudo-elements and pseudo-classes.
-  * A pseudo-element is a keyword added to a selector that lets you style a specific part of the selected element(s).
+   * There is two type of pseudo-selectors: **pseudo-elements** and **pseudo-classes**.
+   * A pseudo-element is a keyword added to a selector that lets you style **a specific part** of the selected element(s).
   ```
   p::first-line {
     color: blue;
     text-transform: uppercase;
   }
   ```
-  * A pseudo-class is used to add additional efects to selected HTML. For example to style an element when a user mouses over it, to       style visited and unvisited links differently or style an element when it gets focus
+   * A pseudo-class is used to add **additional efects** to selected HTML. For example to style an element when a user mouses over it, to       style visited and unvisited links differently or style an element when it gets focus
   ```
   a:hover {
     color: #FF0000;
   }
   ```
   
-3. What are all the ways to apply CSS rules to a web page?
+6. What are all the ways to apply CSS rules to a web page?
+
+   * **Inline** - It is by adding style attribute in the HTML element and then adds the rules. Though it is easy, it is not a best practice.
+   * **Inline/Internal** - Adding the ``<style>`` element in the document, preferably in the head, and then place our rules.
+   * **External/Linked** - CSS rules are placed in .css file and then using ``<link>`` element link the CSS files in the document.
 
 3. What are the components of a CSS Style?
 
