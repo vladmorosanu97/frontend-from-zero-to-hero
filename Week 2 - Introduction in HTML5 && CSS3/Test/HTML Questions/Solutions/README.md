@@ -84,45 +84,45 @@
     
 15. Are HTML tags case sensitive? 
 
-   * No. :D
+    * No. :D
    
-   This code ...
-   ```
-     <!DOCTYPE html>
-     <html>
-       <head>
-         <meta charset="utf-8" />
-         <title>Page Title</title>
-         <meta name="viewport" content="width=device-width, initial-scale=1">
-         <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-         <script src="main.js"></script>
-       </head>
-       <body>
-         <h1>Title page</h1>
-       </body>
-     </html>
-  ```
-  or 
-  ```
-     <!DOCTYPE html>
-     <HTML>
-       <HEAD>
-         <META charset="utf-8" />
-         <TITLEe>Page Title</TITLE>
-         <META name="viewport" content="width=device-width, initial-scale=1">
-         <LINK rel="stylesheet" type="text/css" media="screen" href="main.css" />
-         <SCRIPT src="main.js"></SCRIPT>
-       </HEAD>
-       <BODY>
-         <H1>Title page</H1>
-       </BODY>
-     </HTML>
-  ```
-  will works perfectly in the both cases.
+      This code ...
+      ```
+        <!DOCTYPE html>
+        <html>
+          <head>
+            <meta charset="utf-8" />
+            <title>Page Title</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+            <script src="main.js"></script>
+          </head>
+          <body>
+            <h1>Title page</h1>
+          </body>
+        </html>
+      ```
+      or 
+      ```
+        <!DOCTYPE html>
+        <HTML>
+          <HEAD>
+            <META charset="utf-8" />
+            <TITLEe>Page Title</TITLE>
+            <META name="viewport" content="width=device-width, initial-scale=1">
+            <LINK rel="stylesheet" type="text/css" media="screen" href="main.css" />
+            <SCRIPT src="main.js"></SCRIPT>
+          </HEAD>
+          <BODY>
+            <H1>Title page</H1>
+          </BODY>
+        </HTML>
+      ```
+      will works perfectly in the both cases.
   
 16. How to insert a copyright symbol on a browser page? 
 
-   * You can insert a copyright symbol by using &copy; or &#169; in an HTML file.
+    * You can insert a copyright symbol by using &copy; or &#169; in an HTML file.
    
 17. Does a hyperlink only apply to text?
     
