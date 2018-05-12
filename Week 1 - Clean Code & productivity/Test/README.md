@@ -42,24 +42,24 @@
     
 4. What is wrong with the code below? Can you improve it? If you don't have any knowledge about basic JavaScript, don't worry! You will learn more about this language soon. This exercise is optional. 
  
- ```javascript
- function myCompany() {
-    let hoursOfWork = 30;
-    let totalMoney = 2000;
-    let firstEmployee;
-    let secondEmployee;
-    
-    //calculate salary for each employee
-    firstEmployee = (totalMoney + 100)/hoursOfWork;
-    secondEmployee = (totalMoney + 100)/hoursOfWork;
-}
-```
+    ```javascript
+    function myCompany() {
+       let hoursOfWork = 30;
+       let totalMoney = 2000;
+       let firstEmployee;
+       let secondEmployee;
+
+       //calculate salary for each employee
+       firstEmployee = (totalMoney + 100)/hoursOfWork;
+       secondEmployee = (totalMoney + 100)/hoursOfWork;
+   }
+   ```
 5. Naming conventions is very important for writing a clean code because the other programmers will not spend too much time trying to understand what were you thinking. In this exercise, you need to improve the code in such a way that other people can read it more easily. Hint: try understanding first what does this code do. 
-```javascript
-        for(i=0;i<10;i++) {
-    d = d +i;
-  }
-```    
+   ```javascript
+           for(i=0;i<10;i++) {
+       d = d +i;
+     }
+   ```    
 
 6. There is only one more step. To synchronise your local data in your online repository you need to do the following: 
 
