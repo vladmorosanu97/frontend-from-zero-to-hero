@@ -2,6 +2,8 @@
 
 ### 1. CSS3 Questions
 
+1. What is CSS?
+
 1. Explain the CSS selectors.
 
 2. What is Pseudo selectors? What are they used for?
