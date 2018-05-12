@@ -84,7 +84,7 @@
 
     * The selector ``p[lang]`` selects all paragraph elements with a lang attribute
 
-12. What is ``float`` proprety in CSS?
+12. What is ``float`` property in CSS?
 
     * In float, CSS allow an element to be positioned horizondally, allowing elements below the floated element to flow around it
     * Floats can only accept a ``left`` and ``right`` value.
@@ -93,7 +93,7 @@
 
     * CSS Box model is a made up of margins, borders, padding and content. Box model provides a **structured way** to space elements in     a relationship to each other.
 
-14. Is there a way to restore the default proprety value using CSS?
+14. Is there a way to restore the default property value using CSS?
 
     * This is not an easy way to restore the default property. But we can use ``inherit`` value, which will restore it to the default.
 
@@ -119,7 +119,7 @@
     * 1vmin = 1vw or 1vh, whichever is smaller.
     * 1vmax = 1vw or 1vh, whichever is larger.
 
-18. Which proprety is used to set the background color of an element?
+18. Which property is used to set the background color of an element?
 
     * ``background-color`` set a specific backgroud color to an element. Like this: 
     ```
@@ -134,7 +134,7 @@
     * These are layered atop one another with the first background you provide on top and the last background listed in the back.
     * Only the last background can include a background color.
     
-20. Which proprety is used to controll the scrolling of an image in the background?
+20. Which property is used to controll the scrolling of an image in the background?
 
     * The ``background-attachement`` property is used to control the scrolling of an image in the background.
 
