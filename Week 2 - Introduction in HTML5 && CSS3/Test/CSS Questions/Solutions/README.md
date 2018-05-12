@@ -17,7 +17,7 @@
    * A style rule is made of **three** parts: 
    
         * selector - A selector is an HTML tag at which a style will be applied
-        * property - A proprety is a type of attribute of HTML tag.
+        * property - A property is a type of attribute of HTML tag.
         * value - Values are assigned to properties
    
 4. Explain the CSS selectors.
