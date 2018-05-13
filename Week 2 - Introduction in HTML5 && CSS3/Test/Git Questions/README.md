@@ -63,12 +63,12 @@
    git ___ readme.txt
    ```
    
-11   Which of the following commands is the correct way to add a remote repository?
+11. Which of the following commands is the correct way to add a remote repository?
 
-   * a) ``git remote add origin http://github.com/my-git.git``
-   * b) ``git remote fetch origin http://github.com/my-git.git``
-   * c) ``git remote download origin http://github.com/my-git.git``
-   * d) ``git remote get origin http://github.com/my-git.git``
+      * a) ``git remote add origin http://github.com/my-git.git``
+      * b) ``git remote fetch origin http://github.com/my-git.git``
+      * c) ``git remote download origin http://github.com/my-git.git``
+      * d) ``git remote get origin http://github.com/my-git.git``
    
 12. Fill the blank to createan empty repository: 
 
@@ -78,10 +78,10 @@
   
 13. Which o the following commands allow to pull the latest changes from a repository to your repository?
 
-   * a) ``git checkout``
-   * b) ``git merge``
-   * c) ``git branch``
-   * d) ``git pull``
+      * a) ``git checkout``
+      * b) ``git merge``
+      * c) ``git branch``
+      * d) ``git pull``
    
    
    
