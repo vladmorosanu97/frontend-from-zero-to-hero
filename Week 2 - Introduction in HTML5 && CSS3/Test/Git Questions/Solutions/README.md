@@ -50,9 +50,9 @@
    
 10. Fill the blank to tell Git to start tracking changes made  to ``readme.txt``
 
-   ```
-   git add readme.txt
-   ```   
+     ```
+     git add readme.txt
+     ```   
    
 11   Which of the following commands is the correct way to add a remote repository?
 
