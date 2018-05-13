@@ -40,7 +40,7 @@
    
 8.   The command ``git push``:
    
-   * c) send changes to the master branch of your remote repository.
+      * c) send changes to the master branch of your remote repository.
       
 9. Fill the blank to store staged changes with a message describing what was changed:
 
@@ -54,16 +54,16 @@
      git add readme.txt
      ```   
    
-11   Which of the following commands is the correct way to add a remote repository?
+11. Which of the following commands is the correct way to add a remote repository?
 
-   * a) ``git remote add origin http://github.com/my-git.git``
+      * a) ``git remote add origin http://github.com/my-git.git``
   
 12. Fill the blank to createan empty repository: 
 
-   ```
-   git init
-   ```  
+     ```
+     git init
+     ```  
    
 13. Which o the following commands allow to pull the latest changes from a repository to your repository?
 
-   * **d) ``git pull``**   
+     * **d) ``git pull``**   
