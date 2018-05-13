@@ -59,9 +59,9 @@
    
 10. Fill the blank to tell Git to start tracking changes made  to ``readme.txt``
 
-   ```
-   git ___ readme.txt
-   ```
+      ```
+      git ___ readme.txt
+      ```
    
 11. Which of the following commands is the correct way to add a remote repository?
 
@@ -72,9 +72,9 @@
    
 12. Fill the blank to createan empty repository: 
 
-   ```
-   git ____
-   ```
+      ```
+      git ____
+      ```
   
 13. Which o the following commands allow to pull the latest changes from a repository to your repository?
 
