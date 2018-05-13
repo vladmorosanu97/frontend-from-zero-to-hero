@@ -66,4 +66,4 @@
    
 13. Which o the following commands allow to pull the latest changes from a repository to your repository?
 
-     * **d) ``git pull``**   
+     * d) **``git pull``**   
