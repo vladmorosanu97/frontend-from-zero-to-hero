@@ -1,12 +1,12 @@
 ## Test 2 - HTML5 && CSS3
 
-### 1. CSS3 questions and answers
+### 1. CSS3 questions
 
 1. What is CSS?
 
 2. What are all the ways to apply CSS rules to a web page?
 
-3. What are the components of a CSS Style for an element?
+3. What are the components of a CSS declaration?
    
 4. Explain the CSS selectors.
 
@@ -34,7 +34,7 @@
 
 16. What is the purpose of the ``z-index`` and how is it used?
     
-17. What are ``vh``, ``vw``and ``vmin`` measurement units?
+17. What are ``vh``, ``vw``and ``vmin``? Please describe what each one of them does. 
     
 18. Which property is used to set the background color of an element?
 
