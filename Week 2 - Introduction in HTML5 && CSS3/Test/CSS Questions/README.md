@@ -6,7 +6,7 @@
 
 2. What are all the ways to apply CSS rules to a web page?
 
-3. What are the components of a CSS declaration?
+3. What are the components of a CSS style rule?
    
 4. Explain the CSS selectors.
 
