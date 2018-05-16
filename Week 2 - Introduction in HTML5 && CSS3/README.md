@@ -1,13 +1,13 @@
 # FrontEndFromZeroToHero - Week 2
 
-## 1. Learn the workings of Git
-
 Hello, it's good to see you here again! :D 
 
 For this week, you will learn some things about HTML and CSS and why Flexbox is the best and most elegant method for layout.
 
-First of all, you need to know what are the Git principles and why is the best platform which you can sync your projects. 
-In first course, I teach you some commands for Git and to create a repository (a workspace online) but now, you have to read how git works and what you can do with it. Below, you have a link to a great article about the workings of Git.
+## 1. Learn the workings of Git
+
+First of all, you need to know what are the Git principles and why is Git the best platform where you can sync your projects. 
+In the first course, I taught you a few commands for Git and how to create a repository (an online workspace), but this week you'll learn how Git works and what you can do with this platform. Below, you have a link to a helpful article about the workings of Git.
 
 * [Learn the workings of Git, not just the commands](https://www.ibm.com/developerworks/library/d-learn-workings-git/)
 
