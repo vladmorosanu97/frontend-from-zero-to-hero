@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Slab', serif;
+}
+.header, .title-page {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+}
+.header {
+    background-color: #33bdb5;
+
+}
+.navigation {
+    display: flex;
+    justify-content: center;
+}
+.navigation-list {
+    display: flex;
+}
+.link {
+    list-style-type: none;
+
+    color: white;
+
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: #33bdb5;
+}
+.link:hover {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: white;
+}
+.content-header {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    margin-left: 24rem;
+    margin-right: 24rem;
+
+    display: flex;
+    flex-direction: column;
+}
+.title, .subtitle, .line-border, .icon-down {
+    display: inline;
+    text-align: center;
+}
+.title {
+    color: white;
+    font-size: 3rem;
+}
+.line-border{
+    width: 10rem;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+
+    color:white;
+
+    border-style: solid;
+    border-width: 0.5px;
+}
+.subtitle {
+    color: white;
+    font-weight: 100;
+    line-height: 2;
+    opacity: 0.6;
+}
+.icon-down {
+
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+
+    color: white;
+
+    font-size: 3rem;
+    opacity: 0.7;
+}
+.icon-down:hover {
+    opacity: 1;
+}
