@@ -19,7 +19,7 @@
 
   This example is written in C# language.
   
-  Whatever you don't understand each part of code in c#, it's important to learn thease four principles. Why? Because these concepts are part of most common programming languages. 
+  Even if you don't understand the whole C# language from this article, it's important to learn these four principles. Why? Because they are concepts which you'll meet in almost all programming languages. 
   
   * Link: [Four Principles of Object-Oriented Programming with Examples in C#](http://scottpantall.com/2017/09/four-principles-object-oriented-programming-examples-c/)
   
