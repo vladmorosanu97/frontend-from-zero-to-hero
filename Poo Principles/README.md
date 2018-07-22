@@ -1,6 +1,6 @@
 # FrontendFromZeroToHero
 
-## POO principles
+# Object-oriented programming. Principles and examples 
 
 ## 1. What is Object-oriented Programming? (JavaScript Video Tutorial)
   
@@ -15,4 +15,15 @@
   * Link: [Getting Started with JavaScript Object](https://scotch.io/tutorials/getting-started-with-javascript-object?utm_source=spotim&utm_medium=spotim_recirculation&spotim_referrer=recirculation&spot_im_comment_id=sp_D7GE1sbz_38331_c_S7a4at)
   
   
-## 4. 
+## 4. Four Principles of Object-Oriented Programming with Examples in C#
+
+  This example is written in C# language.
+  
+  Whatever you don't understand each part of code in c#, it's important to learn thease four principles. Why? Because these concepts are part of most common programming languages. 
+  
+  * Link: [Four Principles of Object-Oriented Programming with Examples in C#](http://scottpantall.com/2017/09/four-principles-object-oriented-programming-examples-c/)
+  
+  
+## 5. Is JavaScript a (true) OOP language? (Advanced and optional)
+
+  * Link: [Is JavaScript a (true) OOP language? ](https://medium.com/@andrea.chiarelli/is-javascript-a-true-oop-language-c87c5b48bdf0)
