@@ -1,4 +1,4 @@
-# Frontend from zero to zero
+# Frontend from zero to hero
 
 ## 1. Introduction
 
