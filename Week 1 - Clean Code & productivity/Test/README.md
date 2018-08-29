@@ -6,17 +6,17 @@
 
     * You need to create a workspace on your account. This is a link: **https://github.com/new**.
     
-    * Open your folder in your computer where you are working for this project. Remember, one folder for one dream! ;)
+    * Open your folder in your computer where you are working for this project. This folder should be called "Front-End" or something like that. Remember, one folder for one dream! ;)
     
     * Now, right click, open git bash and type `` git init `` . This comand means that you will create a local workspace in your computer. 
     
     * You need to create a connection between your local workspace and github.
     
-    Type `` git remote add origin https://github.com/yourAccount/yourRepositoryName.git ``.
+    Type `` git remote add origin https://github.com/yourAccount/yourRepositoryName.git `` and you'll replace ``yourAccount`` and `` yourReporitoryName`` with your credentials.
     
-    * To have things organised, it's necessary to create a new folder for every course. Type ``mkdir yourFolderName`` and ``cd yourFolderName``.
+    * There will be 8 weeks and to mantain all things clean, we'll create one folder for each week. Below, you can create a new folder by typing ``mkdir week-1`` (you can you can put any name) and ``cd week-1``. 
     
-    * Below, you can create a new file text or any other type of file and in order write your answers. 
+    * Now, you can create manually a new file text or any other type or you can create a file using this terminal typing ``cd. > fileName``. In this file you must write your answers. 
 
 2. The best way to be productive and accomplish everything you set out to do is to create your own **To-Do Lists**. What kind of spin do you think is the most correct?  
     
