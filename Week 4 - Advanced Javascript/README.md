@@ -1,5 +1,4 @@
-# FrontendFromZeroToHero
-Frontend for eight weeks
+# Frontend From Zero To Hero
 
 ## 5. Exercises
 
