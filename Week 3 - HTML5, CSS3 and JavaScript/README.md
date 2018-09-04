@@ -23,7 +23,7 @@ Starting off, you will need to read about what is new in HTML 5 and CSS3. There'
 
   * Now, that you've gathered enough information about HTML5 and CSS3, I'll leave here some links from a really good online book where you can understand all the concepts from JavaScript in depth. 
   * If you want to read all the chapters of this book this is the link: [The Modern JavaScript Tutorial](https://javascript.info/)
-  * But if you are a "Rocky" programmer, I chose for you the most important chapters from this week. We will be talking later on about other chapters in another week, step by step. Each link containts some subchapters.
+  * But if you are a "Rocky" programmer, I chose for you the most important chapters from this week. We will be talking later on about other chapters in another week, step by step. Each link containts some subchapters. Some chapters offer you a set of exercises which are very helpful if you want to practice what you've learned up until that point. 
       
       * [An introduction](https://javascript.info/getting-started)
       * [JavaScript Fundamentals](https://javascript.info/first-steps)
@@ -31,4 +31,4 @@ Starting off, you will need to read about what is new in HTML 5 and CSS3. There'
       * [Objects: the basics](https://javascript.info/object-basics)
       * [Data types](https://javascript.info/data-types)
   
-## 4. Exercises
+## 5. Exercises
